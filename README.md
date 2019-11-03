@@ -3,6 +3,8 @@
 
 The glossary has been heavily adapted from the Portuguese glossary doc.
 
+![logo](https://devhaiti.github.io/default.png)
+
 
 
 ## Contributors
